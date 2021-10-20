@@ -833,5 +833,4 @@ namespace chess
             return " EE ";
         }
     }
-
 }
